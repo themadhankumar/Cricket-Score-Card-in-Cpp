@@ -1,9 +1,10 @@
-#include <iostream.h>
+#include <iostream>
 #include <conio.h>
-#include <string.h>
+#include <string>
 #include <math.h>
 #include <stdio.h>
 #include <graphics.h>
+using namespace std;
 int st[2]={1,2};	//To store the strike and non strike player number
 char* SHOW_STATUS(int i)
 {
